@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
-<h3 align="center">Python Backend Developer from Russia 🇷🇺</h3>
+<h3 align="center">Python Backend Developer</h3>
 <h3 align="center">My skills &#128170;</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
