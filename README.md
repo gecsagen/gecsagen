@@ -25,7 +25,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-> Болтовня ни чего не стоит, покажи мне код (с). Линус Торвальдс  
+> Болтовня ничего не стоит, покажи мне код (с). Линус Торвальдс  
 <div id="socials" align="center">
   <a href="https://t.me/the_pgn">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
