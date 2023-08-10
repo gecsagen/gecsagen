@@ -31,3 +31,12 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
+
+
+<h1 align="center">My stat:</h1>
+
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gecsagen&theme=aura" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gecsagen&theme=aura" alt=""/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gecsagen&theme=aura" alt=""/>
+</div>
