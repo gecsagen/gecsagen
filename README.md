@@ -22,8 +22,7 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
 
 > Talk is cheap. Show me the code (с). Linus Torvalds 
 <div id="socials" align="center">
@@ -42,4 +41,3 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gecsagen&theme=aura" alt=""/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gecsagen&theme=aura" alt=""/>
 </div>  
-![Metrics](https://metrics.lecoq.io/gecsagen?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FOmsk)
