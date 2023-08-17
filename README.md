@@ -41,4 +41,5 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gecsagen&theme=aura" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gecsagen&theme=aura" alt=""/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gecsagen&theme=aura" alt=""/>
-</div>
+</div>  
+![Metrics](https://metrics.lecoq.io/gecsagen?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FOmsk)
