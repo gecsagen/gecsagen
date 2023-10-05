@@ -37,7 +37,7 @@
 <h1 align="center">My stat:</h1>
 
 <div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gecsagen&theme=aura" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gecsagen&theme=aura" alt=""/>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gecsagen&theme=aura" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gecsagen&theme=github" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gecsagen&theme=github" alt=""/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gecsagen&theme=github" alt=""/>
 </div>  
