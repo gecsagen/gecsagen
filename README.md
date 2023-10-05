@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
 
-<h3 align="center">My stat</h3>
+<h3 align="center">My stats</h3>
 
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gecsagen&theme=github" alt=""/>
